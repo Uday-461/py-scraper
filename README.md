@@ -8,7 +8,7 @@ Firstly, You must have Python 3.5 or greater available with you. You can downloa
 Next you need pip for Python3, type the following on terminal.  
 ```
    $ sudo apt-get update  
-   $ sudo apt-get install python-pip3
+   $ sudo apt-get install python3-pip
 ```  
 Then, install PyQt5 using the following (Might take some time):  
 ```
